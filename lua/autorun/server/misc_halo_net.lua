@@ -1,0 +1,1 @@
+util.AddNetworkString( "halo_misc_register_tank" )
